@@ -1,6 +1,11 @@
 # SI_Miniproject_2_MOM
-Magnus Klitmose, Rasmus Lynge, Mathias Kristensen
+
 ------
+
+Magnus Klitmose, Rasmus Lynge, Mathias Kristensen
+
+------
+
 We have chosen assignment 3. 
 We have used Doras code examples for rabbitMQ to complete the task. 
 
