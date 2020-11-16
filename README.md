@@ -1,4 +1,4 @@
-# SI_Miniproject_2_MOM
+# SI Miniproject 2 MOM
 
 ###### Magnus Klitmose, Rasmus Lynge, Mathias Kristensen
 
